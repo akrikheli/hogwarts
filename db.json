@@ -1,4 +1,4 @@
-[
+{ "wizards":[
   {
       "name": "Scorpius Malfoy",
       "description": "Son of Draco Malfoy and Astoria Greengrass."
@@ -8,3 +8,4 @@
       "description": "Clothing shop owner in Diagon Alley."
     }
   ]
+}
