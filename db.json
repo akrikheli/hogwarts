@@ -1,11 +1,14 @@
-{ "wizards":[
-  {
-      "name": "Scorpius Malfoy",
-      "description": "Son of Draco Malfoy and Astoria Greengrass."
+{
+  "wizards": [
+    {
+      "name": "Harry Potter",
+      "college": "GRYFFINDOR",
+      "skill": "AVERAGE"
     },
     {
-      "name": "Madam Malkin",
-      "description": "Clothing shop owner in Diagon Alley."
+      "name": "Voldemort",
+      "college": "SLYTHERIN",
+      "skill": "EXPERT"
     }
   ]
 }
